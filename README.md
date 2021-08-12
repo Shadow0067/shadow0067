@@ -4,7 +4,7 @@ I am a freelancer on few leading sites like  [Fiverr](https://www.fiverr.com/use
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Muhammad Musa-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://web.facebook.com/profile.php?id=100026400563019)](https://web.facebook.com/profile.php?id=100026400563019) [![Mail Badge]](https://img.shields.io/badge/-IrfanAlvi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/IrfanAlvi/) [![Mail Badge]](https://img.shields.io/badge/-shadowdude0067-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shadowdude0067@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@MuhammadMusa-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://web.facebook.com/profile.php?id=100026400563019)](https://web.facebook.com/profile.php?id=100026400563019) [![Linkedin Badge](https://img.shields.io/badge/-IrfanAlvi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanaboud/) [![Mail Badge](https://img.shields.io/badge/-shadowdude0067-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shadowdude0067@gmail.com)
 
 <!-- TODO: Add last video link -->
 
