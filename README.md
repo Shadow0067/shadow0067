@@ -23,9 +23,9 @@ I am a freelancer on few leading sites like  [Fiverr](https://www.fiverr.com/use
 
 ### SomePastProjects
 
-PathFinder with A* and Dijkstra Algo Project: [<img align="" alt="React" width="26px" src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" /><br>] [PathFindCode]
+PathFinder with A* and Dijkstra Algo Project: <img align="" alt="React" width="26px" src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png" /> [PathFindCode]
 
-Valentine Mini Code Clip: [<img align="" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/valentine-wings--v2.png" /><br>] [ValentineCode]
+Valentine Mini Code Clip: <img align="" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/valentine-wings--v2.png" /> [ValentineCode]
 
 <br />
 
